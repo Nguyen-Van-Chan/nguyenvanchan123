@@ -1,2 +1,2 @@
- ![Logo TechMaster](https://techmaster.vn/resources/image/logo.png)
+ ![Logo NVC(https://github.com//J2TEAM/J2TEAM/raw/main/dino.gif)
  
