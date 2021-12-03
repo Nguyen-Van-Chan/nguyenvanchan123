@@ -1,1 +1,1 @@
-<a href="https://nguyenvanchan123.github.io/CV" target="_blank" rel="nofollow"><img src="https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
+<a href="https://nguyenvanchan123.github.io/CV" target="_blank" rel="noopener noreferrer"><img src="https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
