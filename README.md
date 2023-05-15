@@ -3,7 +3,7 @@
 </p>
 <a href="https://nguyenvanchan123.github.io/CV" target="_blank" rel="noopener noreferrer"><img src="https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
 
-<p align="center"> <img src=https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/khaict.svg" /> </p>****
+<p align="center"> <img src="https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/khaict.svg" /> </p>****
 <ul dir="auto">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://about.facebook.com/" rel="nofollow">Meta</a></p>
